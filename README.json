@@ -269,7 +269,7 @@
                 "open_issues": 23,
                 "owner": "insidegui",
                 "repo": "WWDC",
-                "stars": 8762,
+                "stars": 8761,
                 "topics": [
                   "apple",
                   "developer-experience",
@@ -352,7 +352,7 @@
                 "open_issues": 174,
                 "owner": "Sequel-Ace",
                 "repo": "Sequel-Ace",
-                "stars": 7521,
+                "stars": 7522,
                 "topics": [
                   "hacktoberfest",
                   "macos",
@@ -399,8 +399,8 @@
                 "id": 1117891044,
                 "language": "Swift",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T03:14:24Z",
-                "open_issues": 89,
+                "last_commit": "2026-08-29T03:51:19Z",
+                "open_issues": 88,
                 "owner": "TableProApp",
                 "repo": "TablePro",
                 "stars": 5576,
@@ -1441,7 +1441,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-27T23:18:20Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "codexu",
                 "repo": "note-gen",
                 "stars": 12699,
@@ -1687,7 +1687,7 @@
                 "open_issues": 6,
                 "owner": "mobrava",
                 "repo": "Clipbara",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "clipboard",
                   "clipboard-history",
@@ -2097,7 +2097,7 @@
                 "open_issues": 2,
                 "owner": "momenbasel",
                 "repo": "PureMac",
-                "stars": 6120,
+                "stars": 6121,
                 "topics": [
                   "cache-cleaner",
                   "cleanmymac",
@@ -3390,7 +3390,7 @@
             "open_issues": 87,
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12326,
+            "stars": 12327,
             "topics": [
               "app-store",
               "homebrew",
@@ -4114,7 +4114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:45:26.387Z",
+    "last_updated": "2026-08-29T04:11:06.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome applications, softwares, tools and shiny things for macOS.",
